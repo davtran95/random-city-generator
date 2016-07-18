@@ -27,4 +27,4 @@ A friend asked me to give her names of random cities across the US. I figured, w
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+https://www.gnu.org/licenses/gpl-3.0.en.html
